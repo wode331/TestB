@@ -3,6 +3,6 @@ public class Demo1 {
         System.out.println("Hello!");
     }
     public void run1(){
-
+        System.out.println("你好啊");
     }
 }
